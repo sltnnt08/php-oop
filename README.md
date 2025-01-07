@@ -20,7 +20,7 @@ echo $sheep->name; // "shaun" \
 echo $sheep->legs; // 4 \
 echo $sheep->cold_blooded; // "no" \
 
-// NB: Boleh juga menggunakan method get (get_name(), get_legs(), get_cold_blooded())
+// NB: Boleh juga menggunakan method get (get_let_name(), gegs(), get_cold_blooded())
 
 Release 1
 
